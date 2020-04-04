@@ -8,8 +8,3 @@ GET https://places-dev.cteleport.com/airports/AMS HTTP/1.1
 
 Dotnet core 2.0 or later has to be used.
 And it’s allowed to use 3-rd party components
-
-
-# TODO
-
-- Finish Controller.
